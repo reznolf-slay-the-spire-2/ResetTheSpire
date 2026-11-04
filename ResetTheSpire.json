@@ -1,0 +1,12 @@
+{
+  "id": "ResetTheSpire",
+  "name": "Reset the Spire",
+  "author": "Reznolf",
+  "description": "Adds a Reset button to the in-run pause menu. Restarts the run with the same character, ascension and modifiers: a new seed in standard/custom runs, or the same daily seed in daily runs (the partial attempt is recorded as abandoned). Works in singleplayer and, host-authoritative, in multiplayer when every player has the mod.",
+  "version": "1.1.0",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

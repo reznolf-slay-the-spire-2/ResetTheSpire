@@ -1,0 +1,23 @@
+.godot/
+bin/
+/android/
+.git/
+.idea/
+.vs/
+publish/
+Properties/
+packages/
+.editorconfig
+*.user
+Directory.Build.props
+# --- Repo ignores (added for GitHub) ---
+/Reference Art/
+/Art References/
+/References/
+/Sound Candidates/
+/tools/
+/Debug/
+*.log
+mod_id.txt
+*-config.json
+*.user
